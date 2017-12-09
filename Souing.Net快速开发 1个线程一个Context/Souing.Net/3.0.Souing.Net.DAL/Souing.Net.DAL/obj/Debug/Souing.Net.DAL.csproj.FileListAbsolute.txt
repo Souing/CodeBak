@@ -1,0 +1,12 @@
+F:\ljw\Souing.Net快速开发\Souing.Net\3.0.Souing.Net.DAL\Souing.Net.DAL\bin\Debug\Souing.Net.DAL.dll
+F:\ljw\Souing.Net快速开发\Souing.Net\3.0.Souing.Net.DAL\Souing.Net.DAL\bin\Debug\Souing.Net.DAL.pdb
+F:\ljw\Souing.Net快速开发\Souing.Net\3.0.Souing.Net.DAL\Souing.Net.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\ljw\Souing.Net快速开发\Souing.Net\3.0.Souing.Net.DAL\Souing.Net.DAL\obj\Debug\Souing.Net.DAL.dll
+F:\ljw\Souing.Net快速开发\Souing.Net\3.0.Souing.Net.DAL\Souing.Net.DAL\obj\Debug\Souing.Net.DAL.pdb
+F:\ljw\Souing.Net快速开发\Souing.Net\3.0.Souing.Net.DAL\Souing.Net.DAL\bin\Debug\EntityFramework.dll
+F:\ljw\Souing.Net快速开发\Souing.Net\3.0.Souing.Net.DAL\Souing.Net.DAL\bin\Debug\Souing.Net.DAL.Base.dll
+F:\ljw\Souing.Net快速开发\Souing.Net\3.0.Souing.Net.DAL\Souing.Net.DAL\bin\Debug\Souing.Net.Entity.dll
+F:\ljw\Souing.Net快速开发\Souing.Net\3.0.Souing.Net.DAL\Souing.Net.DAL\bin\Debug\Souing.Net.Model.Base.dll
+F:\ljw\Souing.Net快速开发\Souing.Net\3.0.Souing.Net.DAL\Souing.Net.DAL\bin\Debug\Souing.Net.Entity.pdb
+F:\ljw\Souing.Net快速开发\Souing.Net\3.0.Souing.Net.DAL\Souing.Net.DAL\bin\Debug\Souing.Net.Model.Base.pdb
+F:\ljw\Souing.Net快速开发\Souing.Net\3.0.Souing.Net.DAL\Souing.Net.DAL\bin\Debug\Souing.Net.DAL.Base.pdb

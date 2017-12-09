@@ -1,0 +1,5 @@
+F:\ljw\Souing.Net快速开发\Souing.Net\4.0.Souing.Net.Model\Souing.Net.ViewModel\bin\Debug\Souing.Net.ViewModel.dll
+F:\ljw\Souing.Net快速开发\Souing.Net\4.0.Souing.Net.Model\Souing.Net.ViewModel\bin\Debug\Souing.Net.ViewModel.pdb
+F:\ljw\Souing.Net快速开发\Souing.Net\4.0.Souing.Net.Model\Souing.Net.ViewModel\obj\Debug\ResolveAssemblyReference.cache
+F:\ljw\Souing.Net快速开发\Souing.Net\4.0.Souing.Net.Model\Souing.Net.ViewModel\obj\Debug\Souing.Net.ViewModel.dll
+F:\ljw\Souing.Net快速开发\Souing.Net\4.0.Souing.Net.Model\Souing.Net.ViewModel\obj\Debug\Souing.Net.ViewModel.pdb

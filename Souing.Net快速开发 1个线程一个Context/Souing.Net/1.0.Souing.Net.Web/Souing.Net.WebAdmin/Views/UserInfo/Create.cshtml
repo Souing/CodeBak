@@ -1,0 +1,55 @@
+﻿@model Souing.Net.ViewModel.Admin.UserInfo.UserInfoViewModel
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>UserInfoViewModel</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.UserName)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.UserName)
+            @Html.ValidationMessageFor(model => model.UserName)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.PassWord)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.PassWord)
+            @Html.ValidationMessageFor(model => model.PassWord)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.NickName)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.NickName)
+            @Html.ValidationMessageFor(model => model.NickName)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Gender)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Gender)
+            @Html.ValidationMessageFor(model => model.Gender)
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

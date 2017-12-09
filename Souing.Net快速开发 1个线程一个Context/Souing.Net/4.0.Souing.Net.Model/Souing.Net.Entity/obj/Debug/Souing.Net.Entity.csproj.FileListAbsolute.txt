@@ -1,0 +1,8 @@
+F:\ljw\Souing.Net快速开发\Souing.Net\4.0.Souing.Net.Model\Souing.Net.Entity\bin\Debug\Souing.Net.Entity.dll
+F:\ljw\Souing.Net快速开发\Souing.Net\4.0.Souing.Net.Model\Souing.Net.Entity\bin\Debug\Souing.Net.Entity.pdb
+F:\ljw\Souing.Net快速开发\Souing.Net\4.0.Souing.Net.Model\Souing.Net.Entity\obj\Debug\ResolveAssemblyReference.cache
+F:\ljw\Souing.Net快速开发\Souing.Net\4.0.Souing.Net.Model\Souing.Net.Entity\obj\Debug\Souing.Net.Entity.dll
+F:\ljw\Souing.Net快速开发\Souing.Net\4.0.Souing.Net.Model\Souing.Net.Entity\obj\Debug\Souing.Net.Entity.pdb
+F:\ljw\Souing.Net快速开发\Souing.Net\4.0.Souing.Net.Model\Souing.Net.Entity\bin\Debug\Souing.Net.Model.Base.dll
+F:\ljw\Souing.Net快速开发\Souing.Net\4.0.Souing.Net.Model\Souing.Net.Entity\bin\Debug\Souing.Net.Model.Base.pdb
+F:\ljw\Souing.Net快速开发\Souing.Net\4.0.Souing.Net.Model\Souing.Net.Entity\bin\Debug\EntityFramework.dll
