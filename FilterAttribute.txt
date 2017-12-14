@@ -1,0 +1,9 @@
+Api
+AuthorizationFilterAttribute
+FilterAttribute, IAuthorizationFilter // 授权过滤器
+FilterAttribute, IActionFilter  //行为过滤器
+
+
+Web
+FilterAttribute, IAuthenticationFilter
+ActionFilterAttribute
