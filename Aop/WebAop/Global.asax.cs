@@ -15,7 +15,7 @@ namespace WebAop
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             GlobalFilters.Filters.Add(new BasicAuthenticateAttribute());
-            GlobalFilters.Filters.Add(new ModelValidAttribute());
+            GlobalFilters.Filters.Add(new ModelValidationAttribute());
         }
     }
 }

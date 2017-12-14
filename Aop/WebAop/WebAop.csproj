@@ -100,7 +100,7 @@
     <Compile Include="Filter\BaseAuthenticateAttribute.cs" />
     <Compile Include="Filter\BasicAuthenticateAttribute.cs" />
     <Compile Include="Filter\FormAuthenticateAttribute.cs" />
-    <Compile Include="Filter\ModelValidAttribute.cs" />
+    <Compile Include="Filter\ModelValidationAttribute.cs" />
     <Compile Include="Filter\MvcExceptionFilterAttribute.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>

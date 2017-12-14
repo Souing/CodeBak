@@ -6,11 +6,15 @@ using System.Web.Mvc;
 
 namespace WebAop.Filter
 {
-    public class ModelValidAttribute : FilterAttribute, IActionFilter
+    public class ModelValidationAttribute : FilterAttribute, IActionFilter
     {
         public void OnActionExecuting(ActionExecutingContext filterContext)
         {
             var controller = filterContext.Controller as Controller;
+            if (controller != null && controller.Request.HttpMethod.ToUpper() != "POST")
+            {
+                return;
+            }
             if (controller != null && !controller.ModelState.IsValid)
             {
                 string errorMsg = "服务器繁忙,请稍后再试";

@@ -1,9 +1,13 @@
-Api
+Api   //在默认的WebApi中，框架提供了三种Filter，他们的功能和运行条件如下表所示：
+HttpParameterBinding
 AuthorizationFilterAttribute
 FilterAttribute, IAuthorizationFilter // 授权过滤器
 FilterAttribute, IActionFilter  //行为过滤器
-
+IExceptionFilter, IExceptionFilter  // 异常过滤器
 
 Web
 FilterAttribute, IAuthenticationFilter
 ActionFilterAttribute
+
+
+http://blog.csdn.net/Joyhen/article/details/46802697   webapi格式

@@ -79,7 +79,7 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Filter\BasicAuthorizationAttribute.cs" />
-    <Compile Include="Filter\ValidateModelAttribute.cs" />
+    <Compile Include="Filter\ModelValidationAttribute.cs" />
     <Compile Include="Filter\TokenAuthorizationAttrbute.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
