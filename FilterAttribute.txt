@@ -11,3 +11,20 @@ ActionFilterAttribute
 
 
 http://blog.csdn.net/Joyhen/article/details/46802697   webapi格式
+
+下面排版顺序对应Policy的运行顺序
+1.SessionAuthPolicy：
+检测用户是否已经登录，用户登录是进行下面检测的前提。
+2.SourcePolicy：
+检测访问的资源是否存在，主要检测Source表的记录
+3.PermissionPolicy：
+检测该用户所属的角色，是否有对所访问资源进行对应操作的权限。
+4.OwnerPolicy：
+如果所访问的资源属于私人资源，则检测当前用户是否该资源的拥有者
+
+
+
+
+权限链接
+http://blog.csdn.net/xyw591238/article/details/51736393
+http://blog.csdn.net/qiaqia609/article/details/38102091

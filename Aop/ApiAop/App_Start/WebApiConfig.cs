@@ -10,13 +10,11 @@ namespace ApiAop
     {
         public static void Register(HttpConfiguration config)
         {
-          
+            config.MapHttpAttributeRoutes();
 
             // Web API 配置和服务
 
             // Web API 路由
-            config.MapHttpAttributeRoutes();
-            config.Filters.Add(new ValidateModelAttribute());
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",
                 routeTemplate: "api/{controller}/{action}/{id}",

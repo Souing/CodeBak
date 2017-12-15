@@ -17,8 +17,9 @@ namespace ApiAop
             GlobalConfiguration.Configure(WebApiConfig.Register);
 //            GlobalConfiguration.Configuration.Filters.Add(new BasicAuthorizationAttribute());
 //            GlobalConfiguration.Configuration.MessageHandlers.Add(new BasicAuthenticationHandler());
-            // todo 未验证
-//            GlobalConfiguration.Configuration.Filters.Add(new ModelValidAttribute());
+//            GlobalConfiguration.Configuration.Filters.Add(new ModelValidationAttribute());
+
+            GlobalConfiguration.Configuration.Filters.Add(new TestValidationAttribute());
             // todo 异常
           //  GlobalConfiguration.Configuration.Services.Add(typeof(IExceptionHandler), new ErrorHandler());
         }

@@ -12,7 +12,6 @@ namespace ApiAop.Controllers
     public class HomeController : ApiController
     {
 //        [BasicAuthorizationFilter]
-        [ValidateModel]
         [HttpGet]
         public string Index(PersonModel person)
         {
@@ -21,6 +20,7 @@ namespace ApiAop.Controllers
             return boolResult.ToString();
         }
         [HttpGet]
+        [TestValidation(errorMsg = "我错了")]
         public string Index2()
         {
             return "234";

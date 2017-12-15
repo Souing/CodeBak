@@ -11,7 +11,7 @@ using Newtonsoft.Json;
 namespace ApiAop.Filter
 {
     [AttributeUsage(AttributeTargets.Class | AttributeTargets.Method, AllowMultiple = false)]
-    public class ValidateModelAttribute : ActionFilterAttribute
+    public class ModelValidationAttribute : ActionFilterAttribute
     {
         public override void OnActionExecuting(HttpActionContext actionContext)
         {
@@ -22,27 +22,14 @@ namespace ApiAop.Filter
             var modelState = actionContext.ModelState;
             if (!modelState.IsValid)
             {
-                foreach (var value in modelState.Values)
+                if (modelState.Values.Where(value => value.Errors.Any()).Any(value => value.Errors.Select(error => error.ErrorMessage).Any()))
                 {
-                    if (!value.Errors.Any())
+                    actionContext.Response = new HttpResponseMessage(HttpStatusCode.OK)
                     {
-                        continue;
-                    }
-                    foreach (var error in value.Errors)
-                    {
-                        string errorMsg = error.ErrorMessage;
-                        // 默认的格式
-                                         //       actionContext.Response = actionContext.Request.CreateErrorResponse(HttpStatusCode.BadRequest, errorMsg);
-                        // 自定义格式 todo
-                        actionContext.Response = new HttpResponseMessage(HttpStatusCode.OK)
-                                             {
-                                                 Content = new StringContent(JsonConvert.SerializeObject(new { name = "123", age = 123 }), System.Text.Encoding.GetEncoding("UTF-8"), "application/json")
-                                             };
-                        break;
-                    }
+                        Content = new StringContent(JsonConvert.SerializeObject(new { name = "123", age = 123 }), System.Text.Encoding.GetEncoding("UTF-8"), "application/json")
+                    };
+                    return;
                 }
-
-
             }
             base.OnActionExecuting(actionContext);
         }

@@ -2,3 +2,4 @@ E:\czbk\code\Aop\CommonClass\bin\Debug\CommonClass.dll
 E:\czbk\code\Aop\CommonClass\bin\Debug\CommonClass.pdb
 E:\czbk\code\Aop\CommonClass\obj\Debug\CommonClass.dll
 E:\czbk\code\Aop\CommonClass\obj\Debug\CommonClass.pdb
+E:\czbk\code\Aop\CommonClass\obj\Debug\CommonClass.csprojResolveAssemblyReference.cache

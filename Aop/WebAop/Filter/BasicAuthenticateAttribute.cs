@@ -23,6 +23,7 @@ namespace WebAop.Filter
             {
                 return true;
             }
+//         var a =   filterContext.ActionDescriptor.GetCustomAttributes(true).OfType<AllowAnonymousAttribute>().Any();
 
             string userName = null;
             string userPswd = null;

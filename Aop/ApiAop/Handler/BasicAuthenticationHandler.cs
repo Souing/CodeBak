@@ -26,7 +26,6 @@ namespace ApiAop.Handler
             {
                 return ErrorChallenge(request);
             }
-
             return base.SendAsync(request, cancellationToken).ContinueWith(task =>
             {
                 var response = task.Result;
