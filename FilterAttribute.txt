@@ -28,3 +28,14 @@ http://blog.csdn.net/Joyhen/article/details/46802697   webapi格式
 权限链接
 http://blog.csdn.net/xyw591238/article/details/51736393
 http://blog.csdn.net/qiaqia609/article/details/38102091
+
+
+SQL注入过滤器
+https://www.lanhusoft.com/Article/132.html
+
+ModelBinder
+http://www.cnblogs.com/JustRun1983/p/3307774.html
+
+http://www.cnblogs.com/JustRun1983/p/3279139.html
+开发和常用工具
+http://www.cnblogs.com/JustRun1983/p/3254264.html
