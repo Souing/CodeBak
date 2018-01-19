@@ -1,0 +1,10 @@
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.Sys.CacheInfaceService\bin\Debug\Work.Sys.CacheInfaceService.dll
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.Sys.CacheInfaceService\bin\Debug\Work.Sys.CacheInfaceService.pdb
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.Sys.CacheInfaceService\obj\Debug\Work.Sys.CacheInfaceService.csprojResolveAssemblyReference.cache
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.Sys.CacheInfaceService\obj\Debug\Work.Sys.CacheInfaceService.dll
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.Sys.CacheInfaceService\obj\Debug\Work.Sys.CacheInfaceService.pdb
+F:\Work.System\Work.System.Solution\Work.Sys.CacheInfaceService\bin\Debug\Work.Sys.CacheInfaceService.dll
+F:\Work.System\Work.System.Solution\Work.Sys.CacheInfaceService\bin\Debug\Work.Sys.CacheInfaceService.pdb
+F:\Work.System\Work.System.Solution\Work.Sys.CacheInfaceService\obj\Debug\Work.Sys.CacheInfaceService.csprojResolveAssemblyReference.cache
+F:\Work.System\Work.System.Solution\Work.Sys.CacheInfaceService\obj\Debug\Work.Sys.CacheInfaceService.dll
+F:\Work.System\Work.System.Solution\Work.Sys.CacheInfaceService\obj\Debug\Work.Sys.CacheInfaceService.pdb

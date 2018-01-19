@@ -1,0 +1,5 @@
+F:\Work.System\Work.System.Solution\Work.Sys.DotModel\bin\Debug\Work.Sys.DDDModel.dll
+F:\Work.System\Work.System.Solution\Work.Sys.DotModel\bin\Debug\Work.Sys.DDDModel.pdb
+F:\Work.System\Work.System.Solution\Work.Sys.DotModel\obj\Debug\Work.Sys.DDDModel.csprojResolveAssemblyReference.cache
+F:\Work.System\Work.System.Solution\Work.Sys.DotModel\obj\Debug\Work.Sys.DDDModel.dll
+F:\Work.System\Work.System.Solution\Work.Sys.DotModel\obj\Debug\Work.Sys.DDDModel.pdb

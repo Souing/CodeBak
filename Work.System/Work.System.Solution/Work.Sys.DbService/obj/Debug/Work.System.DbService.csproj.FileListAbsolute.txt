@@ -1,0 +1,15 @@
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.System.DbService\bin\Debug\Work.System.DbService.dll
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.System.DbService\bin\Debug\Work.System.DbService.pdb
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.System.DbService\bin\Debug\EntityFramework.dll
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.System.DbService\bin\Debug\Work.System.DbHelper.dll
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.System.DbService\bin\Debug\Work.System.DbInterfaceService.dll
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.System.DbService\bin\Debug\Work.System.DbModel.dll
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.System.DbService\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.System.DbService\bin\Debug\MySql.Data.dll
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.System.DbService\bin\Debug\Work.System.DbHelper.pdb
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.System.DbService\bin\Debug\Work.System.DbInterfaceService.pdb
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.System.DbService\bin\Debug\Work.System.DbModel.pdb
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.System.DbService\bin\Debug\EntityFramework.xml
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.System.DbService\obj\Debug\Work.System.DbService.csprojResolveAssemblyReference.cache
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.System.DbService\obj\Debug\Work.System.DbService.dll
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.System.DbService\obj\Debug\Work.System.DbService.pdb

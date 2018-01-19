@@ -1,0 +1,8 @@
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.Sys.Cache\bin\Debug\Work.Sys.Cache.dll
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.Sys.Cache\bin\Debug\Work.Sys.Cache.pdb
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.Sys.Cache\obj\Debug\Work.Sys.Cache.dll
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.Sys.Cache\obj\Debug\Work.Sys.Cache.pdb
+F:\Work.System\Work.System.Solution\Work.Sys.Cache\bin\Debug\Work.Sys.Cache.dll
+F:\Work.System\Work.System.Solution\Work.Sys.Cache\bin\Debug\Work.Sys.Cache.pdb
+F:\Work.System\Work.System.Solution\Work.Sys.Cache\obj\Debug\Work.Sys.Cache.dll
+F:\Work.System\Work.System.Solution\Work.Sys.Cache\obj\Debug\Work.Sys.Cache.pdb

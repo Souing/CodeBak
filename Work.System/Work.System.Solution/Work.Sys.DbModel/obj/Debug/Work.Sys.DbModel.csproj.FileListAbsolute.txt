@@ -1,0 +1,14 @@
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.System.DbModel\bin\Debug\Work.System.DbModel.dll
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.System.DbModel\bin\Debug\Work.System.DbModel.pdb
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.System.DbModel\obj\Debug\Work.System.DbModel.dll
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.System.DbModel\obj\Debug\Work.System.DbModel.pdb
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.System.DbModel\obj\Debug\Work.Sys.DbModel.csprojResolveAssemblyReference.cache
+F:\Work.System\Work.System.Solution\Work.System.DbModel\bin\Debug\Work.Sys.DbModel.dll
+F:\Work.System\Work.System.Solution\Work.System.DbModel\bin\Debug\Work.Sys.DbModel.pdb
+F:\Work.System\Work.System.Solution\Work.System.DbModel\obj\Debug\Work.Sys.DbModel.dll
+F:\Work.System\Work.System.Solution\Work.System.DbModel\obj\Debug\Work.Sys.DbModel.pdb
+F:\Work.System\Work.System.Solution\Work.Sys.DbModel\bin\Debug\Work.Sys.DbModel.dll
+F:\Work.System\Work.System.Solution\Work.Sys.DbModel\bin\Debug\Work.Sys.DbModel.pdb
+F:\Work.System\Work.System.Solution\Work.Sys.DbModel\obj\Debug\Work.Sys.DbModel.csprojResolveAssemblyReference.cache
+F:\Work.System\Work.System.Solution\Work.Sys.DbModel\obj\Debug\Work.Sys.DbModel.dll
+F:\Work.System\Work.System.Solution\Work.Sys.DbModel\obj\Debug\Work.Sys.DbModel.pdb

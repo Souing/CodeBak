@@ -1,0 +1,9 @@
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.Sys.DotModel\bin\Debug\Work.Sys.DotModel.dll
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.Sys.DotModel\bin\Debug\Work.Sys.DotModel.pdb
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.Sys.DotModel\obj\Debug\Work.Sys.DotModel.csprojResolveAssemblyReference.cache
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.Sys.DotModel\obj\Debug\Work.Sys.DotModel.dll
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.Sys.DotModel\obj\Debug\Work.Sys.DotModel.pdb
+F:\Work.System\Work.System.Solution\Work.Sys.DotModel\bin\Debug\Work.Sys.DotModel.dll
+F:\Work.System\Work.System.Solution\Work.Sys.DotModel\bin\Debug\Work.Sys.DotModel.pdb
+F:\Work.System\Work.System.Solution\Work.Sys.DotModel\obj\Debug\Work.Sys.DotModel.dll
+F:\Work.System\Work.System.Solution\Work.Sys.DotModel\obj\Debug\Work.Sys.DotModel.pdb

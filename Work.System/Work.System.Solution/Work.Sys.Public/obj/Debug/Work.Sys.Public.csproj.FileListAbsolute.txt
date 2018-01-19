@@ -1,0 +1,8 @@
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.Sys.Public\bin\Debug\Work.Sys.Public.dll
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.Sys.Public\bin\Debug\Work.Sys.Public.pdb
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.Sys.Public\obj\Debug\Work.Sys.Public.dll
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.Sys.Public\obj\Debug\Work.Sys.Public.pdb
+F:\Work.System\Work.System.Solution\Work.Sys.Public\bin\Debug\Work.Sys.Public.dll
+F:\Work.System\Work.System.Solution\Work.Sys.Public\bin\Debug\Work.Sys.Public.pdb
+F:\Work.System\Work.System.Solution\Work.Sys.Public\obj\Debug\Work.Sys.Public.dll
+F:\Work.System\Work.System.Solution\Work.Sys.Public\obj\Debug\Work.Sys.Public.pdb

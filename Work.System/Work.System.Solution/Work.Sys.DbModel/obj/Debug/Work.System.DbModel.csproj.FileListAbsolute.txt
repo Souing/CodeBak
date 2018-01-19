@@ -1,0 +1,4 @@
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.System.DbModel\bin\Debug\Work.System.DbModel.dll
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.System.DbModel\bin\Debug\Work.System.DbModel.pdb
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.System.DbModel\obj\Debug\Work.System.DbModel.dll
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.System.DbModel\obj\Debug\Work.System.DbModel.pdb

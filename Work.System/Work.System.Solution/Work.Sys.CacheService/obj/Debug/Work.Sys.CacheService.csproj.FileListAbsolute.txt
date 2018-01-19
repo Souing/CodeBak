@@ -1,0 +1,10 @@
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.Sys.CacheService\bin\Debug\Work.Sys.CacheService.dll
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.Sys.CacheService\bin\Debug\Work.Sys.CacheService.pdb
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.Sys.CacheService\obj\Debug\Work.Sys.CacheService.csprojResolveAssemblyReference.cache
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.Sys.CacheService\obj\Debug\Work.Sys.CacheService.dll
+C:\Users\yunkai_yanmingliang\Desktop\Work.System\Work.System.Solution\Work.Sys.CacheService\obj\Debug\Work.Sys.CacheService.pdb
+F:\Work.System\Work.System.Solution\Work.Sys.CacheService\bin\Debug\Work.Sys.CacheService.dll
+F:\Work.System\Work.System.Solution\Work.Sys.CacheService\bin\Debug\Work.Sys.CacheService.pdb
+F:\Work.System\Work.System.Solution\Work.Sys.CacheService\obj\Debug\Work.Sys.CacheService.dll
+F:\Work.System\Work.System.Solution\Work.Sys.CacheService\obj\Debug\Work.Sys.CacheService.pdb
+F:\Work.System\Work.System.Solution\Work.Sys.CacheService\obj\Debug\Work.Sys.CacheService.csprojResolveAssemblyReference.cache
