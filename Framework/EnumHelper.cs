@@ -73,11 +73,11 @@ namespace ConsoleApp1
         /// <typeparam name="T">枚举</typeparam>
         /// <param name="enm">枚举名字</param>
         /// <returns>返回转换成功以后的值，转换失败会抛异常</returns>
-        public static T GetEnumTypeByName<T>(string enm) where T : struct
+        public static TEnum GetEnumTypeByName<TEnum>(string enm) where TEnum : struct
         {
-            T type;
+            TEnum type;
             // 需要通过此方法再次确定是否是枚举实际定义的内容
-            if (Enum.TryParse(enm, true, out type) && Enum.IsDefined(typeof(T), type))
+            if (Enum.TryParse(enm, true, out type) && Enum.IsDefined(typeof(TEnum), type))
             {
                 return type;
             }
